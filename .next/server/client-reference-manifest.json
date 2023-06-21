@@ -56,6 +56,14 @@
         "async": false
       }
     },
+    "(app-client)/./public/wece-logo-white.png": {
+      "*": {
+        "id": "(sc_client)/./public/wece-logo-white.png",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
     "(app-client)/./node_modules/next/dist/client/image.js": {
       "*": {
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
@@ -232,6 +240,14 @@
       "name": "*",
       "chunks": [
         "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/estrella/wece-uiuc-link-short/public/wece-logo-white.png": {
+      "id": "(app-client)/./public/wece-logo-white.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },

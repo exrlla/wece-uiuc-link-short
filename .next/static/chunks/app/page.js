@@ -19,13 +19,24 @@ eval(__webpack_require__.ts("\nvar _global_process, _global_process1;\nmodule.ex
 
 /***/ }),
 
-/***/ "(app-client)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Festrella%2Fwece-uiuc-link-short%2Fnode_modules%2Fnext%2Fdist%2Fclient%2Fimage.js&server=false!":
-/*!***********************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Festrella%2Fwece-uiuc-link-short%2Fnode_modules%2Fnext%2Fdist%2Fclient%2Fimage.js&server=false! ***!
-  \***********************************************************************************************************************************************************************************************************/
+/***/ "(app-client)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Festrella%2Fwece-uiuc-link-short%2Fpublic%2Fwece-logo-white.png&modules=%2FUsers%2Festrella%2Fwece-uiuc-link-short%2Fnode_modules%2Fnext%2Fdist%2Fclient%2Fimage.js&server=false!":
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Festrella%2Fwece-uiuc-link-short%2Fpublic%2Fwece-logo-white.png&modules=%2FUsers%2Festrella%2Fwece-uiuc-link-short%2Fnode_modules%2Fnext%2Fdist%2Fclient%2Fimage.js&server=false! ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************/
 /***/ (function(__unused_webpack_module, __unused_webpack_exports, __webpack_require__) {
 
-eval(__webpack_require__.ts("Promise.resolve(/*! import() eager */).then(__webpack_require__.t.bind(__webpack_require__, /*! ./node_modules/next/dist/client/image.js */ \"(app-client)/./node_modules/next/dist/client/image.js\", 23))//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1jbGllbnQpLy4vbm9kZV9tb2R1bGVzL25leHQvZGlzdC9idWlsZC93ZWJwYWNrL2xvYWRlcnMvbmV4dC1mbGlnaHQtY2xpZW50LWVudHJ5LWxvYWRlci5qcz9tb2R1bGVzPSUyRlVzZXJzJTJGZXN0cmVsbGElMkZ3ZWNlLXVpdWMtbGluay1zaG9ydCUyRm5vZGVfbW9kdWxlcyUyRm5leHQlMkZkaXN0JTJGY2xpZW50JTJGaW1hZ2UuanMmc2VydmVyPWZhbHNlISIsIm1hcHBpbmdzIjoiQUFBQSIsInNvdXJjZXMiOlsid2VicGFjazovL19OX0UvPzQwYzciXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0KC8qIHdlYnBhY2tNb2RlOiBcImVhZ2VyXCIgKi8gXCIvVXNlcnMvZXN0cmVsbGEvd2VjZS11aXVjLWxpbmstc2hvcnQvbm9kZV9tb2R1bGVzL25leHQvZGlzdC9jbGllbnQvaW1hZ2UuanNcIikiXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///(app-client)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Festrella%2Fwece-uiuc-link-short%2Fnode_modules%2Fnext%2Fdist%2Fclient%2Fimage.js&server=false!\n"));
+eval(__webpack_require__.ts("Promise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./public/wece-logo-white.png */ \"(app-client)/./public/wece-logo-white.png\"));\nPromise.resolve(/*! import() eager */).then(__webpack_require__.t.bind(__webpack_require__, /*! ./node_modules/next/dist/client/image.js */ \"(app-client)/./node_modules/next/dist/client/image.js\", 23))//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1jbGllbnQpLy4vbm9kZV9tb2R1bGVzL25leHQvZGlzdC9idWlsZC93ZWJwYWNrL2xvYWRlcnMvbmV4dC1mbGlnaHQtY2xpZW50LWVudHJ5LWxvYWRlci5qcz9tb2R1bGVzPSUyRlVzZXJzJTJGZXN0cmVsbGElMkZ3ZWNlLXVpdWMtbGluay1zaG9ydCUyRnB1YmxpYyUyRndlY2UtbG9nby13aGl0ZS5wbmcmbW9kdWxlcz0lMkZVc2VycyUyRmVzdHJlbGxhJTJGd2VjZS11aXVjLWxpbmstc2hvcnQlMkZub2RlX21vZHVsZXMlMkZuZXh0JTJGZGlzdCUyRmNsaWVudCUyRmltYWdlLmpzJnNlcnZlcj1mYWxzZSEiLCJtYXBwaW5ncyI6IkFBQUEsMktBQW9HO0FBQ3BHIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vX05fRS8/YmNhZiJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQoLyogd2VicGFja01vZGU6IFwiZWFnZXJcIiAqLyBcIi9Vc2Vycy9lc3RyZWxsYS93ZWNlLXVpdWMtbGluay1zaG9ydC9wdWJsaWMvd2VjZS1sb2dvLXdoaXRlLnBuZ1wiKTtcbmltcG9ydCgvKiB3ZWJwYWNrTW9kZTogXCJlYWdlclwiICovIFwiL1VzZXJzL2VzdHJlbGxhL3dlY2UtdWl1Yy1saW5rLXNob3J0L25vZGVfbW9kdWxlcy9uZXh0L2Rpc3QvY2xpZW50L2ltYWdlLmpzXCIpIl0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(app-client)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Festrella%2Fwece-uiuc-link-short%2Fpublic%2Fwece-logo-white.png&modules=%2FUsers%2Festrella%2Fwece-uiuc-link-short%2Fnode_modules%2Fnext%2Fdist%2Fclient%2Fimage.js&server=false!\n"));
+
+/***/ }),
+
+/***/ "(app-client)/./public/wece-logo-white.png":
+/*!************************************!*\
+  !*** ./public/wece-logo-white.png ***!
+  \************************************/
+/***/ (function(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval(__webpack_require__.ts("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ({\"src\":\"/_next/static/media/wece-logo-white.6f4c5874.png\",\"height\":641,\"width\":800,\"blurDataURL\":\"/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwece-logo-white.6f4c5874.png&w=8&q=70\",\"blurWidth\":8,\"blurHeight\":6});//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1jbGllbnQpLy4vcHVibGljL3dlY2UtbG9nby13aGl0ZS5wbmciLCJtYXBwaW5ncyI6IjtBQUFBLCtEQUFlLENBQUMsa05BQWtOIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vX05fRS8uL3B1YmxpYy93ZWNlLWxvZ28td2hpdGUucG5nPzQ3YTIiXSwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IGRlZmF1bHQge1wic3JjXCI6XCIvX25leHQvc3RhdGljL21lZGlhL3dlY2UtbG9nby13aGl0ZS42ZjRjNTg3NC5wbmdcIixcImhlaWdodFwiOjY0MSxcIndpZHRoXCI6ODAwLFwiYmx1ckRhdGFVUkxcIjpcIi9fbmV4dC9pbWFnZT91cmw9JTJGX25leHQlMkZzdGF0aWMlMkZtZWRpYSUyRndlY2UtbG9nby13aGl0ZS42ZjRjNTg3NC5wbmcmdz04JnE9NzBcIixcImJsdXJXaWR0aFwiOjgsXCJibHVySGVpZ2h0XCI6Nn07Il0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(app-client)/./public/wece-logo-white.png\n"));
 
 /***/ }),
 
@@ -203,7 +214,7 @@ eval(__webpack_require__.ts("var __dirname = \"/\";\n/* provided dependency */ v
 },
 /******/ function(__webpack_require__) { // webpackRuntimeModules
 /******/ var __webpack_exec__ = function(moduleId) { return __webpack_require__(__webpack_require__.s = moduleId); }
-/******/ __webpack_require__.O(0, ["main-app"], function() { return __webpack_exec__("(app-client)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Festrella%2Fwece-uiuc-link-short%2Fnode_modules%2Fnext%2Fdist%2Fclient%2Fimage.js&server=false!"); });
+/******/ __webpack_require__.O(0, ["main-app"], function() { return __webpack_exec__("(app-client)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Festrella%2Fwece-uiuc-link-short%2Fpublic%2Fwece-logo-white.png&modules=%2FUsers%2Festrella%2Fwece-uiuc-link-short%2Fnode_modules%2Fnext%2Fdist%2Fclient%2Fimage.js&server=false!"); });
 /******/ var __webpack_exports__ = __webpack_require__.O();
 /******/ _N_E = __webpack_exports__;
 /******/ }
