@@ -548,11 +548,17 @@ video {
   --tw-backdrop-saturate:  ;
   --tw-backdrop-sepia:  ;
 }
+.mt-10 {
+  margin-top: 2.5rem;
+}
 .flex {
   display: flex;
 }
 .min-h-screen {
   min-height: 100vh;
+}
+.w-60 {
+  width: 15rem;
 }
 .flex-col {
   flex-direction: column;
@@ -560,12 +566,10 @@ video {
 .items-center {
   align-items: center;
 }
-.justify-between {
-  justify-content: space-between;
+.font-Rubik {
+  font-family: Rubik, sans-serif;
 }
-.p-24 {
-  padding: 6rem;
-}
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap');
 
 :root {
   background-color: rgb(191, 217, 239);
